@@ -1,0 +1,22 @@
+* {
+glob_bg1: #292d3e;
+glob_fg1: #bbc5ff;
+
+glob_blk1: #101010;
+glob_blk2: #434758;
+glob_red1: #f07178;
+glob_red2: #ff8b92;
+glob_grn1: #c3e88d;
+glob_grn2: #ddffa7;
+glob_ylw1: #ffcb6b;
+glob_ylw2: #ffe585;
+glob_blu1: #82aaff;
+glob_blu2: #9cc4ff;
+glob_mag1: #c792ea;
+glob_mag2: #e1acff;
+glob_cyn1: #89ddff;
+glob_cyn2: #a3f7ff;
+glob_wht1: #d0d0d0;
+glob_wht2: #ffffff;
+font1: "Ubuntu 12";
+}

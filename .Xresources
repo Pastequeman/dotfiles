@@ -1,0 +1,41 @@
+
+! load theme
+#include "Documents/themes/dracula"
+
+! apply color theme
+#include "Documents/themes/colors"
+
+Emacs.alpha: 75
+
+! font
+*font		xft:JetBrains Mono:size=12:antialias=true
+
+#define fnt1 JetBrains Mono
+#define fnt2 Hack
+#define fntsz1 12
+#define fntsz2 12
+
+! variable
+jst.bg1: bg
+jst.fg1: fg
+
+jst.bk1: blk
+jst.bk2: blk2
+jst.gr1: grn
+jst.gr2: grn2
+jst.rd1: red
+jst.rd2: red2
+jst.ye1: ylw
+jst.ye2: ylw2
+jst.bl1: blu
+jst.bl2: blu2
+jst.mg1: mag
+jst.mg2: mag2
+jst.cy1: cyn
+jst.cy2: cyn2
+jst.wh1: wht
+jst.wh2: wht2
+
+
+jst.font1: fnt1
+jst.fontsz1: fntsz1

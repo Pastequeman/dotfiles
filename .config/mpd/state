@@ -1,0 +1,445 @@
+sw_volume: 94
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: play
+current: 425
+time: 153.866000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:X-Japan/Blue Blood Disc 1/01 Prologue (World Anthem).mp3
+1:X-Japan/Blue Blood Disc 1/02 Blue Blood.mp3
+2:X-Japan/Blue Blood Disc 1/03 Week End.mp3
+3:X-Japan/Blue Blood Disc 1/04 Easy Fight Rambling.mp3
+4:X-Japan/Blue Blood Disc 1/05 X.mp3
+5:X-Japan/Blue Blood Disc 1/06 Endless Rain.mp3
+6:X-Japan/Blue Blood Disc 1/07 Kurenai.mp3
+7:X-Japan/Blue Blood Disc 1/09 X Clamation.mp3
+8:X-Japan/Blue Blood Disc 1/10 .Orgasm.mp3
+9:X-Japan/Blue Blood Disc 1/11 .Celebration.mp3
+10:X-Japan/Blue Blood Disc 1/08 Rose of Pain.mp3
+11:X-Japan/Blue Blood Disc 1/12 .Unfinished.mp3
+12:X-Japan/Jealousy/01 Es Durのピアノ線.mp3
+13:X-Japan/Jealousy/02 Silent Jealousy.mp3
+14:X-Japan/Jealousy/03 Miscast.mp3
+15:X-Japan/Jealousy/04 Desperate Angel.mp3
+16:X-Japan/Jealousy/05 White Wind From Mr. Martin 〜Pata's Nap〜.mp3
+17:X-Japan/Jealousy/06 Voiceless Screaming.mp3
+18:X-Japan/Jealousy/07 Stab Me In The Back.mp3
+19:X-Japan/Jealousy/08 Love Replica.mp3
+20:X-Japan/Jealousy/09 Joker.mp3
+21:X-Japan/Jealousy/10 Say Anything.mp3
+22:Trail Of Tears/A New Dimension Of Might/01 Ecstatic.mp3
+23:Trail Of Tears/A New Dimension Of Might/02 A Fate Sealed in Red.mp3
+24:Trail Of Tears/A New Dimension Of Might/03 Crashing Down.mp3
+25:Trail Of Tears/A New Dimension Of Might/04 Obedience in the Absence of Logic.mp3
+26:Trail Of Tears/A New Dimension Of Might/05 Liquid View.mp3
+27:Trail Of Tears/A New Dimension Of Might/06 Denial and Pride.mp3
+28:Trail Of Tears/A New Dimension Of Might/07 The Call of Lust.mp3
+29:Trail Of Tears/A New Dimension Of Might/08 Splendid Coma Visions.mp3
+30:Trail Of Tears/A New Dimension Of Might/09 Bloodred Trance.mp3
+31:Trail Of Tears/A New Dimension Of Might/10 Caffeine.mp3
+32:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/01 O Come, O Come, Emmanuel.mp3
+33:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/02 Together.mp3
+34:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/03 We Three Kings.mp3
+35:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/04 Deck the Halls.mp3
+36:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/05 Pie Jesu.mp3
+37:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/06 Amazing Grace.mp3
+38:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/07 O Tannenbaum.mp3
+39:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/08 Have Yourself a Merry Little Christmas.mp3
+40:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/09 God Rest Ye Merry Gentlemen.mp3
+41:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/10 Feliz Navidad.mp3
+42:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/11 What Child Is This.mp3
+43:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/12 We Wish You a Merry Christmas.mp3
+44:Tarja Turunen/The Shadow Self/01-Innocence.flac
+45:Tarja Turunen/The Shadow Self/02-Demon's in you (feat. Arch Enemy's Alissa White-Gluz).flac
+46:Tarja Turunen/The Shadow Self/03-No Bitter End (album version).flac
+47:Tarja Turunen/The Shadow Self/04-Love To Hate.flac
+48:Tarja Turunen/The Shadow Self/05-Supremacy (Muse cover).flac
+49:Tarja Turunen/The Shadow Self/06-Living End.flac
+50:Tarja Turunen/The Shadow Self/07-Diva.flac
+51:Tarja Turunen/The Shadow Self/08-Eagle Eye (album version).flac
+52:Tarja Turunen/The Shadow Self/09-Undertaker.flac
+53:Tarja Turunen/The Shadow Self/10-Calling From The Wild.flac
+54:Tarja Turunen/The Shadow Self/11-Too Many.flac
+55:Black Sabbath/Sabbath Bloody Sabbath/01 Sabbath Bloody Sabbath.mp3
+56:Black Sabbath/Sabbath Bloody Sabbath/02 A National Acrobat.mp3
+57:Black Sabbath/Sabbath Bloody Sabbath/03 Fluff.mp3
+58:Black Sabbath/Sabbath Bloody Sabbath/04 Sabbra Cadabra.mp3
+59:Black Sabbath/Sabbath Bloody Sabbath/05 Killing Yourself to Live.mp3
+60:Black Sabbath/Sabbath Bloody Sabbath/06 Who Are You_.mp3
+61:Black Sabbath/Sabbath Bloody Sabbath/07 Spiral Architect.mp3
+62:Black Sabbath/Sabbath Bloody Sabbath/08 Looking for Today.mp3
+63:Serj Tankian/Elect The Dead/01 Empty Walls.mp3
+64:Serj Tankian/Elect The Dead/02 The Unthinking Majority.mp3
+65:Serj Tankian/Elect The Dead/03 Money.mp3
+66:Serj Tankian/Elect The Dead/04 Feed Us.mp3
+67:Serj Tankian/Elect The Dead/05 Saving Us.mp3
+68:Serj Tankian/Elect The Dead/06 Sky Is Over.mp3
+69:Serj Tankian/Elect The Dead/07 Baby.mp3
+70:Serj Tankian/Elect The Dead/08 Honking Antelope.mp3
+71:Serj Tankian/Elect The Dead/09 Lie Lie Lie.mp3
+72:Serj Tankian/Elect The Dead/10 Praise the Lord and Pass the Ammunition.mp3
+73:Serj Tankian/Elect The Dead/11 Beethoven's Cunt.mp3
+74:Serj Tankian/Elect The Dead/12 Elect the Dead.mp3
+75:Darkwell/Metatron/01 Fate Prisoner.mp3
+76:Darkwell/Metatron/02 Strange.mp3
+77:Darkwell/Metatron/03 Metatron.mp3
+78:Darkwell/Metatron/04 Crown of Thorn.mp3
+79:Darkwell/Metatron/05 The Machine.mp3
+80:Darkwell/Metatron/06 Hope Unborn.mp3
+81:Darkwell/Metatron/07 Nothingness.mp3
+82:Darkwell/Metatron/08 Far Cry.mp3
+83:Darkwell/Metatron/09 Last Glance.mp3
+84:Angelzoom/Back in a Moment/01 Angelzoom feat. Joachim Witt - Back in a Moment (Single Mix).mp3
+85:Angelzoom/Back in a Moment/02 Angelzoom - Back in a Moment (Piano Mix).mp3
+86:Angelzoom/Back in a Moment/03 Angelzoom feat. Joachim Witt - Back in a Moment (Ambient Crossover Mix).mp3
+87:Angelzoom/Back in a Moment/04 Angelzoom - Infinite.mp3
+88:Angelzoom/Back in a Moment/05 Angelzoom - Blasphemous Rumours.mp3
+89:Angelzoom/Back in a Moment/06 Angelzoom feat. Roedernallee - Back in a Moment (Alternative Radio Version).mp3
+90:Angelzoom/Fairyland/01 Fairyland (radio version).mp3
+91:Angelzoom/Fairyland/02 The World Between.mp3
+92:Angelzoom/Fairyland/03 Sapphire Sky.mp3
+93:Angelzoom/Fairyland/04 Fairyland (Blutengel club mix).mp3
+94:Angelzoom/Fairyland/05 Fairyland (Sacrifight Army remix _ Guitars on Front).mp3
+95:Angelzoom/Angelzoom/01 Turn the Sky (feat. Apocalyptica).mp3
+96:Angelzoom/Angelzoom/02 Back in the Moment (feat. Joachim Witt).mp3
+97:Angelzoom/Angelzoom/03 Blasphemous Rumours.mp3
+98:Angelzoom/Angelzoom/04 Otium.mp3
+99:Angelzoom/Angelzoom/05 Falling Leaves.mp3
+100:Angelzoom/Angelzoom/06 Guardian Angel.mp3
+101:Angelzoom/Angelzoom/07 Crawling.mp3
+102:Angelzoom/Angelzoom/08 Bouncing Shadows.mp3
+103:Angelzoom/Angelzoom/09 Fairyland.mp3
+104:Angelzoom/Angelzoom/10 Dream in a Church (feat. Letzte Instanz).mp3
+105:Angelzoom/Angelzoom/11 Lights.mp3
+106:Angelzoom/Angelzoom/12 Newborn Sun (feat. miLù).mp3
+107:Angelzoom/Angelzoom/13 Into My Arms (feat. Roedernallee).mp3
+108:Angelzoom/Angelzoom/14 Christmas Dreams.mp3
+109:Angelzoom/Angelzoom/15 Peace of Mind.mp3
+110:Brian Tyler/Children Of Dune/01 Summon the Worms.mp3
+111:Brian Tyler/Children Of Dune/02 Dune Messiah.mp3
+112:Brian Tyler/Children Of Dune/03 Main Title (House Atreides).mp3
+113:Brian Tyler/Children Of Dune/04 The Revolution.mp3
+114:Brian Tyler/Children Of Dune/05 Fear is the Mind Killer.mp3
+115:Brian Tyler/Children Of Dune/06 The Arrival of Lady Jessica.mp3
+116:Brian Tyler/Children Of Dune/07 Leto Atreides II.mp3
+117:Brian Tyler/Children Of Dune/08 Inama Nushif (Montage).mp3
+118:Brian Tyler/Children Of Dune/09 War Begins.mp3
+119:Brian Tyler/Children Of Dune/10 Battle of Naraj.mp3
+120:Brian Tyler/Children Of Dune/11 Rya Wolves.mp3
+121:Brian Tyler/Children Of Dune/12 I Have Only Now.mp3
+122:Brian Tyler/Children Of Dune/13 The Impossible Wager.mp3
+123:Brian Tyler/Children Of Dune/14 Face Dancer.mp3
+124:Brian Tyler/Children Of Dune/15 The Throne of Alia.mp3
+125:Brian Tyler/Children Of Dune/16 Trap the Worm.mp3
+126:Brian Tyler/Children Of Dune/17 Salusus Secundus.mp3
+127:Brian Tyler/Children Of Dune/18 The Jihad.mp3
+128:Brian Tyler/Children Of Dune/19 The Ring of Paul.mp3
+129:Brian Tyler/Children Of Dune/20 Exiles.mp3
+130:Brian Tyler/Children Of Dune/21 Sins of the Mother.mp3
+131:Brian Tyler/Children Of Dune/22 Irulan I's Regret.mp3
+132:Brian Tyler/Children Of Dune/23 My Skin is Not My Own.mp3
+133:Brian Tyler/Children Of Dune/24 Reunited.mp3
+134:Brian Tyler/Children Of Dune/25 The Golden Path.mp3
+135:Brian Tyler/Children Of Dune/26 Child Emperor.mp3
+136:Brian Tyler/Children Of Dune/27 Sign of the Bene Gesserit.mp3
+137:Brian Tyler/Children Of Dune/28 The Preacher at Arrakeen.mp3
+138:Brian Tyler/Children Of Dune/29 The Desert Journey.mp3
+139:Brian Tyler/Children Of Dune/30 The Ghola Duncan.mp3
+140:Brian Tyler/Children Of Dune/31 Leto and Ghanima.mp3
+141:Brian Tyler/Children Of Dune/32 The Fremen Qizarate.mp3
+142:Brian Tyler/Children Of Dune/33 Farewell.mp3
+143:Brian Tyler/Children Of Dune/34 Children of Dune.mp3
+144:Brian Tyler/Children Of Dune/35 Horizon.mp3
+145:Brian Tyler/Children Of Dune/36 End Title.mp3
+146:The Beatles/The Rasmus/Black Roses [Deluxe Edition CD_DVD] Disc/01 Livin' In A World Without You.mp3
+147:The Beatles/The Rasmus/Black Roses [Deluxe Edition CD_DVD] Disc/02 Ten Black Roses.mp3
+148:The Beatles/The Rasmus/Black Roses [Deluxe Edition CD_DVD] Disc/03 Ghost Of Love.mp3
+149:The Beatles/The Rasmus/Black Roses [Deluxe Edition CD_DVD] Disc/04 Justify.mp3
+150:The Beatles/The Rasmus/Black Roses [Deluxe Edition CD_DVD] Disc/05 Your Forgiveness.mp3
+151:The Beatles/The Rasmus/Black Roses [Deluxe Edition CD_DVD] Disc/06 Run To You.mp3
+152:The Beatles/The Rasmus/Black Roses [Deluxe Edition CD_DVD] Disc/07 You Got It Wrong.mp3
+153:The Beatles/The Rasmus/Black Roses [Deluxe Edition CD_DVD] Disc/08 Lost And Lonely.mp3
+154:The Beatles/The Rasmus/Black Roses [Deluxe Edition CD_DVD] Disc/09 The Fight.mp3
+155:The Beatles/The Rasmus/Black Roses [Deluxe Edition CD_DVD] Disc/10 Dangerous Kind.mp3
+156:The Beatles/The Rasmus/Black Roses [Deluxe Edition CD_DVD] Disc/11 Live Forever.mp3
+157:Draconian/Turning Season Within/01 Seasons Apart.mp3
+158:Draconian/Turning Season Within/02 When I Wake.mp3
+159:Draconian/Turning Season Within/03 Earthbound.mp3
+160:Draconian/Turning Season Within/04 Not Breathing.mp3
+161:Draconian/Turning Season Within/05 The Failure Epiphany.mp3
+162:Draconian/Turning Season Within/06 Morphine Cloud.mp3
+163:Draconian/Turning Season Within/07 Bloodflower.mp3
+164:Draconian/Turning Season Within/08 The Empty Stare.mp3
+165:Draconian/Turning Season Within/09 September Ashes.mp3
+166:X-Japan/Eternal Melody/1-01 Overture.mp3
+167:X-Japan/Eternal Melody/1-02 Vanishing Love.mp3
+168:X-Japan/Eternal Melody/1-03 Amethyst.mp3
+169:X-Japan/Eternal Melody/1-04 Kurenai.mp3
+170:X-Japan/Eternal Melody/1-05 Endless Rain.mp3
+171:X-Japan/Eternal Melody/1-06 Unfinished.mp3
+172:X-Japan/Eternal Melody/2-01 Say Anything.mp3
+173:X-Japan/Eternal Melody/2-02 Silent Jealousy.mp3
+174:X-Japan/Eternal Melody/2-03 A Piano String in Es Dur.mp3
+175:X-Japan/Eternal Melody/2-04 Week End.mp3
+176:X-Japan/Eternal Melody/2-05 Rose of Pain.mp3
+177:X-Japan/Eternal Melody/2-06 Tears.mp3
+178:X-Japan/Dahlia/01 DAHLIA.mp3
+179:X-Japan/Dahlia/02 SCARS.mp3
+180:X-Japan/Dahlia/03 Longing~跡切れたmelody~.mp3
+181:X-Japan/Dahlia/04 Rusty Nail.mp3
+182:X-Japan/Dahlia/05 White Poem I.mp3
+183:X-Japan/Dahlia/06 CRUCIFY MY LOVE.mp3
+184:X-Japan/Dahlia/07 Tears.mp3
+185:X-Japan/Dahlia/08 WRIGGLE.mp3
+186:X-Japan/Dahlia/09 DRAIN.mp3
+187:X-Japan/Dahlia/10 Forever Love (acoustic version).mp3
+188:Dreams of Sanity/Komodia/01 Komödia I_ The Beginning.mp3
+189:Dreams of Sanity/Komodia/02 Beatrice.mp3
+190:Dreams of Sanity/Komodia/03 Komödia II_ The Dream.mp3
+191:Dreams of Sanity/Komodia/04 Komödia III_ The Meeting.mp3
+192:Dreams of Sanity/Komodia/05 Komödia IV_ The Ending.mp3
+193:Dreams of Sanity/Komodia/06 The Prophet.mp3
+194:Dreams of Sanity/Komodia/07 Treesitter.mp3
+195:Dreams of Sanity/Komodia/08 Blade of Doom.mp3
+196:Dire Straits/(1979) Communiqué/01 - Once Upon A Time In The West.mp3
+197:Dire Straits/(1979) Communiqué/02 - News.mp3
+198:Dire Straits/(1979) Communiqué/03 - Where Do You Think You're Going..mp3
+199:Dire Straits/(1979) Communiqué/04 - Communiqué.mp3
+200:Dire Straits/(1979) Communiqué/05 - Lady Writer.mp3
+201:Dire Straits/(1979) Communiqué/06 - Angel Of Mercy.mp3
+202:Dire Straits/(1979) Communiqué/07 - Portobello Belle.mp3
+203:Dire Straits/(1979) Communiqué/08 - Single Handed Sailor.mp3
+204:Dire Straits/(1979) Communiqué/09 - Follow Me Home.mp3
+205:Visions of Atlantis/Cast Away/01 Send Me a Light.mp3
+206:Visions of Atlantis/Cast Away/02 Cast Away.mp3
+207:Visions of Atlantis/Cast Away/03 Lost.mp3
+208:Visions of Atlantis/Cast Away/04 Realm of Fantasy.mp3
+209:Visions of Atlantis/Cast Away/05 Pharaoh's Repentance.mp3
+210:Visions of Atlantis/Cast Away/06 Winternight.mp3
+211:Visions of Atlantis/Cast Away/07 State of Suspense.mp3
+212:Visions of Atlantis/Cast Away/08 Lemuria.mp3
+213:Visions of Atlantis/Cast Away/09 Last Shut of Your Eyes.mp3
+214:Lacrimosa/Echos/01 Kyrie (Overture).mp3
+215:Lacrimosa/Echos/02 Durch Nacht und Flut (Suche, Part 1).mp3
+216:Lacrimosa/Echos/03 Sacrifice (Hingabe, Part 1).mp3
+217:Lacrimosa/Echos/04 Apart (Bittruf, Part 1).mp3
+218:Lacrimosa/Echos/05 Ein Hauch von Menschlichkeit (Suche, Part 2).mp3
+219:Lacrimosa/Echos/06 Eine Nacht in Ewigkeit (Hingabe, Part 2).mp3
+220:Lacrimosa/Echos/07 Malina (Bittruf, Part 2).mp3
+221:Lacrimosa/Echos/08 Die Schreie sind verstummt (Requiem für drei Gamben und Klavier).mp3
+222:Blind Guardian/The Bard's Song/01 The Bard's Song_ In the Forest.mp3
+223:Blind Guardian/The Bard's Song/02 The Bard's Song_ In the Forest (live, 2002-10-10_ Milano).mp3
+224:Blind Guardian/The Bard's Song/03 The Bard's Song_ In the Forest (live, 2002-05-05_ Munich).mp3
+225:Blind Guardian/The Bard's Song/04 The Bard's Song_ In the Forest (live, 2002-06-04_ Madrid).mp3
+226:Bruce Dickinson/Tattooed Millionaire/01 Son of a Gun.mp3
+227:Bruce Dickinson/Tattooed Millionaire/02 Tattooed Millionaire.mp3
+228:Bruce Dickinson/Tattooed Millionaire/03 Born in '58.mp3
+229:Bruce Dickinson/Tattooed Millionaire/04 Hell on Wheels.mp3
+230:Bruce Dickinson/Tattooed Millionaire/05 Gypsy Road.mp3
+231:Bruce Dickinson/Tattooed Millionaire/06 Dive! Dive! Dive!.mp3
+232:Bruce Dickinson/Tattooed Millionaire/07 All the Young Dudes.mp3
+233:Bruce Dickinson/Tattooed Millionaire/08 Lickin' the Gun.mp3
+234:Bruce Dickinson/Tattooed Millionaire/09 Zulu Lulu.mp3
+235:Bruce Dickinson/Tattooed Millionaire/10 No Lies.mp3
+236:Coldplay/X&Y/1-01 Square One.mp3
+237:Coldplay/X&Y/1-02 What If.mp3
+238:Coldplay/X&Y/1-03 White Shadows.mp3
+239:Coldplay/X&Y/1-04 Fix You.mp3
+240:Coldplay/X&Y/1-05 Talk.mp3
+241:Coldplay/X&Y/1-06 X&Y.mp3
+242:Coldplay/X&Y/2-01 Speed of Sound.mp3
+243:Coldplay/X&Y/2-02 A Message.mp3
+244:Coldplay/X&Y/2-03 Low.mp3
+245:Coldplay/X&Y/2-04 The Hardest Part.mp3
+246:Coldplay/X&Y/2-05 Swallowed in the Sea.mp3
+247:Coldplay/X&Y/2-06 Twisted Logic.mp3
+248:Coldplay/X&Y/2-07 Til Kingdom Come.mp3
+249:Evanescence/Fallen/01 Going Under.mp3
+250:Evanescence/Fallen/02 Bring Me to Life.mp3
+251:Evanescence/Fallen/03 Everybody's Fool.mp3
+252:Evanescence/Fallen/04 My Immortal.mp3
+253:Evanescence/Fallen/05 Haunted.mp3
+254:Evanescence/Fallen/06 Tourniquet.mp3
+255:Evanescence/Fallen/07 Imaginary.mp3
+256:Evanescence/Fallen/08 Taking Over Me.mp3
+257:Evanescence/Fallen/09 Hello.mp3
+258:Evanescence/Fallen/10 My Last Breath.mp3
+259:Evanescence/Fallen/11 Whisper.mp3
+260:Evanescence/Origin/01 Origin.mp3
+261:Evanescence/Origin/02 Whisper.mp3
+262:Evanescence/Origin/03 Imaginary.mp3
+263:Evanescence/Origin/04 My Immortal.mp3
+264:Evanescence/Origin/05 Where Will You Go.mp3
+265:Evanescence/Origin/06 Field of Innocence.mp3
+266:Evanescence/Origin/07 Even in Death.mp3
+267:Evanescence/Origin/08 Anywhere.mp3
+268:Evanescence/Origin/09 Lies.mp3
+269:Evanescence/Origin/10 Away From Me.mp3
+270:Evanescence/Origin/11 Eternal.mp3
+271:Mucc/BEST OF MUCC/01 謡声 (ウタゴエ).mp3
+272:Mucc/BEST OF MUCC/02 流星.mp3
+273:Mucc/BEST OF MUCC/03 最終列車.mp3
+274:Mucc/BEST OF MUCC/04 ココロノナイマチ.mp3
+275:Mucc/BEST OF MUCC/05 ガーベラ.mp3
+276:Mucc/BEST OF MUCC/06 我、在ルベキ場所.mp3
+277:Mucc/BEST OF MUCC/07 雨のオーケストラ.mp3
+278:Mucc/BEST OF MUCC/08 モノクロの景色.mp3
+279:Mucc/BEST OF MUCC/09 路地裏 僕と君へ.mp3
+280:Mucc/BEST OF MUCC/10 名も無き夢.mp3
+281:Mucc/BEST OF MUCC/11 ホリゾント.mp3
+282:Mucc/BEST OF MUCC/12 リブラ (Best Hold It Remix).mp3
+283:Mucc/BEST OF MUCC/13 9月3日の刻印.mp3
+284:Mucc/BEST OF MUCC/14 夕紅.mp3
+285:Mucc/BEST OF MUCC/15 優しい歌.mp3
+286:Mucc/BEST OF MUCC/16 フライト (Best Hold It Ver.).mp3
+287:X-Japan/ヴァニシング・ヴィジョン/01 Dear Loser.mp3
+288:X-Japan/ヴァニシング・ヴィジョン/02 Vanishing Love.mp3
+289:X-Japan/ヴァニシング・ヴィジョン/03 Phantom of Guilt.mp3
+290:X-Japan/ヴァニシング・ヴィジョン/04 Sadistic Desire.mp3
+291:X-Japan/ヴァニシング・ヴィジョン/05 Give Me the Pleasure.mp3
+292:X-Japan/ヴァニシング・ヴィジョン/06 I'll Kill You.mp3
+293:X-Japan/ヴァニシング・ヴィジョン/07 Alive.mp3
+294:X-Japan/ヴァニシング・ヴィジョン/08 Kurenai.mp3
+295:X-Japan/ヴァニシング・ヴィジョン/09 Un-Finished....mp3
+296:Visions of Atlantis/Ethera/01 The Ark.mp3
+297:Visions of Atlantis/Ethera/02 Machinage.mp3
+298:Visions of Atlantis/Ethera/03 Avatara.mp3
+299:Visions of Atlantis/Ethera/04 Vicious Circle.mp3
+300:Visions of Atlantis/Ethera/05 Hypnotized.mp3
+301:Visions of Atlantis/Ethera/06 Tlaloc's Grace.mp3
+302:Visions of Atlantis/Ethera/07 Burden of Divinity.mp3
+303:Visions of Atlantis/Ethera/08 Cave Behind the Waterfall.mp3
+304:Visions of Atlantis/Ethera/09 A.E.O.N. 19th.mp3
+305:Visions of Atlantis/Ethera/10 Bestiality vs. Integrity.mp3
+306:Visions of Atlantis/Ethera/11 Cleric's Emotion.mp3
+307:Visions of Atlantis/Ethera/12 Tlaloc's Grace (orchestra version).mp3
+308:Trail Of Tears/A New Dimension Of Might/01 Ecstatic.mp3
+309:Trail Of Tears/A New Dimension Of Might/02 A Fate Sealed in Red.mp3
+310:Trail Of Tears/A New Dimension Of Might/03 Crashing Down.mp3
+311:Trail Of Tears/A New Dimension Of Might/04 Obedience in the Absence of Logic.mp3
+312:Trail Of Tears/A New Dimension Of Might/05 Liquid View.mp3
+313:Trail Of Tears/A New Dimension Of Might/06 Denial and Pride.mp3
+314:Trail Of Tears/A New Dimension Of Might/07 The Call of Lust.mp3
+315:Trail Of Tears/A New Dimension Of Might/08 Splendid Coma Visions.mp3
+316:Trail Of Tears/A New Dimension Of Might/09 Bloodred Trance.mp3
+317:Trail Of Tears/A New Dimension Of Might/10 Caffeine.mp3
+318:Trail Of Tears/Existensia/01 Deceptive Mirrors.mp3
+319:Trail Of Tears/Existensia/02 My Comfort.mp3
+320:Trail Of Tears/Existensia/03 Venom Inside My Veins.mp3
+321:Trail Of Tears/Existensia/04 Decadence Becomes Me.mp3
+322:Trail Of Tears/Existensia/05 She Weaves Shadows.mp3
+323:Trail Of Tears/Existensia/06 The Closing Walls.mp3
+324:Trail Of Tears/Existensia/07 Empty Room.mp3
+325:Trail Of Tears/Existensia/08 Poisonous Tongues.mp3
+326:Trail Of Tears/Existensia/09 As It Penetrates.mp3
+327:Trail Of Tears/Existensia/10 Shades of Yesterday.mp3
+328:Theatre of Tragedy/Musique/01 Machine.mp3
+329:Theatre of Tragedy/Musique/02 City of Light.mp3
+330:Theatre of Tragedy/Musique/03 Fragment.mp3
+331:Theatre of Tragedy/Musique/04 Musique.mp3
+332:Theatre of Tragedy/Musique/05 Commute.mp3
+333:Theatre of Tragedy/Musique/06 Radio.mp3
+334:Theatre of Tragedy/Musique/07 Image.mp3
+335:Theatre of Tragedy/Musique/08 Crash_Concrete.mp3
+336:Theatre of Tragedy/Musique/09 Retrospect.mp3
+337:Theatre of Tragedy/Musique/10 Reverie.mp3
+338:Theatre of Tragedy/Musique/11 Space Age.mp3
+339:Theatre of Tragedy/Musique/12 The New Man.mp3
+340:Leaves' Eyes/NJORD/01 Njord.mp3
+341:Leaves' Eyes/NJORD/02 My Destiny.mp3
+342:Leaves' Eyes/NJORD/03 Emerald Island.mp3
+343:Leaves' Eyes/NJORD/04 Take the Devil in Me.mp3
+344:Leaves' Eyes/NJORD/05 Scarborough Fair.mp3
+345:Leaves' Eyes/NJORD/06 Through Our Veins.mp3
+346:Leaves' Eyes/NJORD/07 Irish Rain.mp3
+347:Leaves' Eyes/NJORD/08 Northbound.mp3
+348:Leaves' Eyes/NJORD/09 Ragnarok.mp3
+349:Leaves' Eyes/NJORD/10 Morgenland.mp3
+350:Leaves' Eyes/NJORD/11 The Holy Bond.mp3
+351:Leaves' Eyes/NJORD/12 Frøya's Theme.mp3
+352:Leaves' Eyes/NJORD/13 Landscape of the Dead.mp3
+353:Leaves' Eyes/NJORD/14 Les champs de lavande.mp3
+354:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/01 O Come, O Come, Emmanuel.mp3
+355:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/02 Together.mp3
+356:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/03 We Three Kings.mp3
+357:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/04 Deck the Halls.mp3
+358:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/05 Pie Jesu.mp3
+359:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/06 Amazing Grace.mp3
+360:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/07 O Tannenbaum.mp3
+361:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/08 Have Yourself a Merry Little Christmas.mp3
+362:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/09 God Rest Ye Merry Gentlemen.mp3
+363:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/10 Feliz Navidad.mp3
+364:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/11 What Child Is This.mp3
+365:Tarja Turunen/From Spirits And Ghosts (Score For A Dark Christmas)/12 We Wish You a Merry Christmas.mp3
+366:Ike Yorihiro/KARAS Original Soundtrack/01 Karas Kenzai (Shikkoku No Tatakai Hen Urban-1).mp3
+367:Ike Yorihiro/KARAS Original Soundtrack/02 Karas Kenzai (Meio Tanjo Hen Urban-2).mp3
+368:Ike Yorihiro/KARAS Original Soundtrack/03 Don't Pass Away.mp3
+369:Ike Yorihiro/KARAS Original Soundtrack/04 Samayou Kioku.mp3
+370:Ike Yorihiro/KARAS Original Soundtrack/05 Keiyaku No Kagami.mp3
+371:Ike Yorihiro/KARAS Original Soundtrack/06 Suko Na Janen.mp3
+372:Ike Yorihiro/KARAS Original Soundtrack/07 Rengoku Kara No Sasoi.mp3
+373:Ike Yorihiro/KARAS Original Soundtrack/08 Raitei No Gekitsui.mp3
+374:Ike Yorihiro/KARAS Original Soundtrack/09 Moryo No Utage.mp3
+375:Ike Yorihiro/KARAS Original Soundtrack/10 Tamashii No Kaiko.mp3
+376:Ike Yorihiro/KARAS Original Soundtrack/11 Kokoro No Hida.mp3
+377:Ike Yorihiro/KARAS Original Soundtrack/12 Revelation.mp3
+378:Ike Yorihiro/KARAS Original Soundtrack/13 Okiwasureta Kokoro.mp3
+379:Ike Yorihiro/KARAS Original Soundtrack/14 Shinen Naru Omoi.mp3
+380:Ike Yorihiro/KARAS Original Soundtrack/15 Hyakki Yako.mp3
+381:Ike Yorihiro/KARAS Original Soundtrack/16 Hokai No Yocho.mp3
+382:Ike Yorihiro/KARAS Original Soundtrack/17 Zetsubo No Hikari.mp3
+383:Ike Yorihiro/KARAS Original Soundtrack/18 Karas Shinsei.mp3
+384:Ike Yorihiro/KARAS Original Soundtrack/19 Meikai Heno Tsuiraku.mp3
+385:Ike Yorihiro/KARAS Original Soundtrack/20 Aratana Yakudo.mp3
+386:Ike Yorihiro/KARAS Original Soundtrack/21 Kibo.mp3
+387:Ike Yorihiro/KARAS Original Soundtrack/22 Karas.mp3
+388:Ike Yorihiro/KARAS Original Soundtrack/23 Shuen.mp3
+389:Ike Yorihiro/KARAS Original Soundtrack/24 Under Fire.mp3
+390:Joe Hisaishi/Kids Return/01 Meet Again.mp3
+391:Joe Hisaishi/Kids Return/02 Graduation.mp3
+392:Joe Hisaishi/Kids Return/03 Angel Doll.mp3
+393:Joe Hisaishi/Kids Return/04 Alone.mp3
+394:Joe Hisaishi/Kids Return/05 As a Rival.mp3
+395:Joe Hisaishi/Kids Return/06 Promise...For Us.mp3
+396:Joe Hisaishi/Kids Return/07 Next Round.mp3
+397:Joe Hisaishi/Kids Return/08 Destiny.mp3
+398:Joe Hisaishi/Kids Return/09 I Don't Care.mp3
+399:Joe Hisaishi/Kids Return/10 High Spirits.mp3
+400:Joe Hisaishi/Kids Return/11 Defeat.mp3
+401:Joe Hisaishi/Kids Return/12 Break Down.mp3
+402:Joe Hisaishi/Kids Return/13 No Way Out.mp3
+403:Joe Hisaishi/Kids Return/14 The Day After.mp3
+404:Joe Hisaishi/Kids Return/15 Kids Return.mp3
+405:Zeraphine/Traumaworld/01 Light Your Stars.mp3
+406:Zeraphine/Traumaworld/02 No More Doubts.mp3
+407:Zeraphine/Traumaworld/03 United and Lost.mp3
+408:Zeraphine/Traumaworld/04 Failing Breath.mp3
+409:Zeraphine/Traumaworld/05 No Tears.mp3
+410:Zeraphine/Traumaworld/06 In Your Room.mp3
+411:Zeraphine/Traumaworld/07 Schreit dein Herz.mp3
+412:Zeraphine/Traumaworld/08 Be My Rain.mp3
+413:Zeraphine/Traumaworld/09 For a Moment.mp3
+414:Zeraphine/Traumaworld/10 Stop Pretending.mp3
+415:Zeraphine/Traumaworld/11 Wonderland.mp3
+416:Zeraphine/Traumaworld/12 Trauma World.mp3
+417:Zeraphine/Traumaworld/13 Wenn du gehst.mp3
+418:Stream of Passion/Embrace The Storm/01 Spellbound.mp3
+419:Stream of Passion/Embrace The Storm/02 Passion.mp3
+420:Stream of Passion/Embrace The Storm/03 Deceiver.mp3
+421:Stream of Passion/Embrace The Storm/04 I'll Keep on Dreaming.mp3
+422:Stream of Passion/Embrace The Storm/05 Haunted.mp3
+423:Stream of Passion/Embrace The Storm/06 Wherever You Are.mp3
+424:Stream of Passion/Embrace The Storm/07 Open Your Eyes.mp3
+425:Stream of Passion/Embrace The Storm/08 Embrace the Storm.mp3
+426:Stream of Passion/Embrace The Storm/09 Breathing Again.mp3
+427:Stream of Passion/Embrace The Storm/10 Out in the Real World.mp3
+428:Stream of Passion/Embrace The Storm/11 Nostalgia.mp3
+429:Stream of Passion/Embrace The Storm/12 Calliopeia.mp3
+playlist_end

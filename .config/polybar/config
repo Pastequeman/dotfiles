@@ -1,0 +1,435 @@
+; POLYBAR
+;
+[colors]
+background = ${xrdb:jst.bg1:#1b1d1e}
+foreground = ${xrdb:jst.fg1:#ffffff}
+blk1  	   = ${xrdb:jst.bk1:#ffffff}
+blk2 	   = ${xrdb:jst.bk2:#ffffff}
+red1	   = ${xrdb:jst.rd1:#ffffff}
+red2 	   = ${xrdb:jst.rd2:#ffffff}
+grn1 	   = ${xrdb:jst.gr1:#ffffff}
+grn2 	   = ${xrdb:jst.gr2:#ffffff}
+yel1 	   = ${xrdb:jst.ye1:#ffffff}
+yel2 	   = ${xrdb:jst.ye2:#ffffff}
+blu1 	   = ${xrdb:jst.bl1:#ffffff}
+blu2 	   = ${xrdb:jst.bl2:#ffffff}
+mag1 	   = ${xrdb:jst.mg2:#ffffff}
+mag2 	   = ${xrdb:jst.mg2:#ffffff}
+cyn1 	   = ${xrdb:jst.cy1:#ffffff}
+cyn2 	   = ${xrdb:jst.cy2:#ffffff}
+wht1 	   = ${xrdb:jst.wh1:#ffffff}
+wht2 	   = ${xrdb:jst.wh2:#ffffff}
+
+[bar/main]
+monitor      = eDP1
+;monitor      = ${env:MONITOR:}
+fixed-center = true
+width        = 100%
+height       = 30
+offset-x     = 0
+offset-y     = 0
+radius       = 0.0
+line-size    = 3
+line-color   = ${colors.red1}
+border-size  = 0
+border-color = #00000000
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+padding-right = 0
+padding-left = 0
+
+module-margin-left = 1
+module-margin-right = 1
+
+margin-top = 0
+margin-bottom = 0
+
+font-0   = "Hack:style=Regular:pixelsize=10:antialias=false;2"
+font-1   = "Symbols Nerd Font:style=2048-em:pixelsize=12;3"
+font-2   = "Font Awesome 5 Free:style=Solid:pixelsize=16:antialias=false;3"
+;font-3	 = "Weather Icons:style=Regular:size=12;1"
+
+; MODULES
+modules-left  	= i3
+modules-center	= mpd
+modules-right  	= pulseaudio battery memory cpu backlight date
+;tray-padding = 2
+
+separator     	=
+spacing		= 0
+dim-value	= 1.0
+wm-name         = i3
+tray-position	= right
+tray-detached   = false
+tray-maxsize    = 16
+;tray-background = ${root.background}
+tray-offset-x   = 0
+tray-offset-y   = 0
+tray-padding    = 0
+tray-scale      = 1.0
+
+dpi-x = 96
+dpi-y = 96
+
+enable-ipc = true
+
+
+
+[module/i3]
+type = internal/i3
+index-sort = true
+enable-click = true
+enable-scroll = true
+wrapping-scroll = true 
+pin-workspaces = true
+strip-wsnumbers = true
+ws-icon-0 = 1;
+ws-icon-1 = 2;
+ws-icon-2 = 3;
+ws-icon-3 = 4;
+ws-icon-4 = 5;
+ws-icon-5 = 6;
+ws-icon-6 = 7;
+ws-icon-7 = 8;
+ws-icon-8 = 9;
+ws-icon-9 = 10;
+fuzzy-match = true
+
+format = <label-state><label-mode>
+label-unfocused = %index% %icon% 
+label-unfocused-foreground = ${colors.wht1}
+label-unfocused-background = ${colors.background}
+label-unfocused-underline  = 
+label-unfocused-padding = 2
+
+label-focused = %index% %icon%
+label-focused-foreground = ${colors.blk1}
+label-focused-background = ${colors.blu1}
+label-focused-underline = ${colors.yel1}
+label-focused-padding = 2
+
+label-visible =  %index% %icon%
+label-visible-background = ${colors.blk2}
+label-visible-foreground = ${colors.wht1}
+label-visible-underline =  ${colors.yel2}
+label-visible-padding = 2
+
+label-urgent =  %index% %icon%
+label-urgent-foreground = ${colors.blk1}
+label-urgent-background = ${colors.yel2}
+label-urgent-underline =  ${colors.red2}
+label-urgent-padding = 2
+
+
+
+[module/date]
+type = internal/date
+interval = 5
+date = %Y-%m-%d%
+time = %H:%M
+;date-alt = %A, %d %B %Y
+time-alt = %A, %d %B %Y %H:%M:%S
+label = %date% %time%
+label-font = 0
+label-foreground = ${colors.foreground}
+label-background = ${colors.background}
+
+
+[module/openweather]
+type	 = custom/script
+label-active-font = 4
+exec	 = ~/bin/openweather.sh
+interval = 600
+
+
+[module/updates_arch]
+type = custom/script
+exec = ~/bin/update_arch.sh
+;click-left = $(sudo pacman -Syyu) &
+interval = 600
+
+
+[module/wireless-network]
+type = internal/network
+interface = wlo1
+
+label-connected = %essid%
+format-connected = <ramp-signal>
+label-connected-foreground = ${colors.foreground}
+
+format-disconnected = <label-disconnected>
+label-disconnected = Not connected
+label-disconnected-foreground = #BF616A
+
+ramp-signal-foreground = #82B414
+ramp-signal-0 = 
+ramp-signal-1 = 
+ramp-signal-2 = 
+ramp-signal-3 = 
+ramp-signal-4 = 
+ramp-signal-5 = 
+
+
+
+[module/mpd]
+type = internal/mpd
+host = 127.0.0.1
+port = 6600
+interval = 2
+
+format-online  	   	       	  = <icon-prev> <toggle> <icon-next> <bar-progress> <label-song>
+format-offline 	 	          = <label-offline>
+format-paused  			  = <icon-prev> <toggle> <icon-next> <bar-progress> <label-song>
+label-song			  = %artist% - %title%
+label-song-foreground	  	  = ${colors.foreground}
+
+bar-progress-indicator-foreground = ${colors.foreground}
+bar-progress-fill-foreground 	  = ${colors.grn2}
+bar-progress-empty-foreground 	  = ${colors.wht1}
+
+format-paused-foreground 	  = ${colors.blk2}
+label-offline-foreground 	  = ${colors.blk2}
+label-offline 			  = mpd offline
+
+icon-play 			  = 
+icon-pause 			  =  
+icon-stop 			  = 
+icon-prev 			  = 
+icon-next 			  = 
+icon-seekb 			  = 
+icon-seekf 			  = 
+icon-random 			  = 
+icon-repeat 			  = 
+icon-repeatone 			  = 
+icon-single 			  = 
+icon-consume 			  = 
+label-song-maxlen 		  = 25
+label-song-ellipsis 		  = true
+
+toggle-on-foreground 		  = ${colors.grn2}
+toggle-off-foreground		  = ${colors.blk2}
+
+bar-progress-width		  = 20
+bar-progress-indicator 		  = |
+bar-progress-fill 		  = ━
+bar-progress-empty 		  = ━
+
+
+
+[module/powermenu]
+type = custom/text
+content = 
+content-foreground = ${colors.shade7}
+click-left = ~/.config/rofi/scripts/powermenu.sh
+content-padding = 1
+
+
+
+[module/cpu]
+type = internal/cpu
+interval		 = 2
+label			 = %percentage:1%%
+format-prefix		 = ""
+format-prefix-foreground = ${colors.wht1}
+format-prefix-background = ${colors.background}
+label-foreground         = ${colors.foreground}
+label-background	 = ${colors.background}
+;label-padding-right      = 1
+format-prefix-padding-right = 1
+
+
+[module/memory]
+type = internal/memory
+interval		 = 2
+label			 = %gb_used:2%
+format-prefix            = ""
+format-prefix-foreground = ${colors.wht1}
+format-prefix-background = ${colors.background}
+label-foreground         = ${colors.foreground}
+label-background	 = ${colors.background}
+
+format-prefix-padding-right = 1
+
+
+
+[module/xwindow]
+type = internal/xwindow
+label = %title:0:30:...%
+
+
+
+[module/arrow1]
+type = custom/text
+content = 
+content-foreground = #000
+content-background = #991b1d1e
+;${colors.background}
+content-font = 3
+
+
+
+[module/arrow2]
+type = custom/text
+content = 
+content-foreground = #000
+content-background = #991b1d1e
+;${colors.background}
+content-font = 3
+
+
+
+[module/battery]
+type = internal/battery
+full-at = 99
+; $ ls -1 /sys/class/power_supply/
+battery = BAT0
+adapter = AC
+poll-interval = 0
+format-charging = <animation-charging><label-charging>
+format-discharging = <animation-discharging><label-discharging>
+
+label-discharging-padding-left   = 1
+label-charging-padding-left      = 1
+animation-discharging-padding-right      = 0
+
+format-full-prefix = " "
+format-full-prefix-foreground    = ${colors.grn1}
+label-charging			 = %percentage%%
+label-discharging      	   	 = %percentage%%
+
+label-discharging-background 	 = ${colors.background}
+label-charging-background    	 = ${colors.background}
+label-full-background		 = ${colors.background}
+label-discharging-foreground 	 = ${colors.foreground}
+label-charging-foreground 	 = ${colors.foreground}
+animation-discharging-foreground = ${colors.red1}
+animation-charging-foreground 	 = ${colors.grn1}
+animation-discharging-background = ${colors.background}
+label-full-foreground 		 = ${colors.foreground}
+
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
+animation-charging-framerate = 750
+
+animation-discharging-0 = 
+animation-discharging-1 = 
+animation-discharging-2 = 
+animation-discharging-3 = 
+animation-discharging-4 = 
+animation-discharging-framerate = 500
+
+
+
+[module/backlight]
+type = internal/backlight
+card		   = intel_backlight
+format		   = <ramp><label>
+ramp-padding-right = 1
+label 		   = %percentage%%
+ramp-foreground    = ${colors.wht1}
+ramp-background	   = ${colors.background}
+label-foreground   = ${colors.foreground}
+label-background   = ${colors.background}
+
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+ramp-3 = 
+ramp-4 = 
+ramp-5 = 
+ramp-6 = 
+ramp-7 = 
+ramp-8 = 
+ramp-9 = 
+ramp-10= 
+ramp-11= 
+ramp-12= 
+
+
+
+[module/pulseaudio]
+type = internal/pulseaudio
+sink = alsa_output.pci-0000_00_1f.3.analog-stereo
+use-ui-max = true
+
+; Default: 5
+interval = 5
+format-volume		  = <ramp-volume><label-volume>
+ramp-volume-padding-right = 1
+label-volume 		  = %percentage%
+label-muted 		  =  %percentage%
+label-muted-foreground 	  = #808080
+label-muted-background 	  = ${colors.background}
+
+
+ramp-volume-0 = 
+ramp-volume-1 =  
+ramp-volume-2 = 
+ramp-volume-foreground  = ${colors.wht1}
+ramp-volume-background  = ${colors.background}
+label-volume-foreground = ${colors.foreground}
+label-volume-background = ${colors.background}
+
+[settings]
+screenchange-reload = true
+
+[bar/second]
+
+monitor = HDMI2
+fixed-center = true
+width        = 100%
+height       = 30
+offset-x     = 0
+offset-y     = 0
+radius       = 0.0
+line-size    = 3
+line-color   = ${colors.red1}
+border-size  = 0
+border-color = #00000000
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+padding-right = 0
+padding-left = 0
+
+module-margin-left = 1
+module-margin-right = 1
+
+margin-top = 0
+margin-bottom = 0
+
+
+font-0   = "Hack:style=Regular:pixelsize=10:antialias=false;2"
+font-1   = "Symbols Nerd Font:style=2048-em:pixelsize=12;3"
+font-2   = "Font Awesome 5 Free:style=Solid:pixelsize=16:antialias=false;3"
+;font-3 = "Font Awesome 5 Brands:style=Solid:pixelsize=16:antialias=false;3"
+;font-4 = "Ubuntu Nerd Font:style=Book:pixelsize=15:antialias=false;1"
+
+; MODULES
+modules-left  	= i3
+modules-center	= mpd
+modules-right  	= updates_arch date
+
+separator     	=
+spacing		= 0
+dim-value	= 1.0
+wm-name         = i3
+tray-position	= right
+tray-detached   = false
+tray-maxsize    = 16
+;tray-background = ${root.background}
+tray-offset-x   = 0
+tray-offset-y   = 0
+tray-padding    = 0
+tray-scale      = 1.0
+
+dpi-x = 96
+dpi-y = 96
+
+enable-ipc = true

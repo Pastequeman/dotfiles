@@ -1,0 +1,46 @@
+{
+  "catalogs_to_be_synced": {
+    "__class__": "set", 
+    "__value__": []
+  }, 
+  "database location dialog": "/run/media/julien/SP PHD U3/Calibre Library", 
+  "notified-version-updates": {
+    "__class__": "set", 
+    "__value__": [
+      "4.0", 
+      "3.48"
+    ]
+  }, 
+  "sort_history": [
+    [
+      "authors", 
+      true
+    ], 
+    [
+      "size", 
+      false
+    ], 
+    [
+      "size", 
+      true
+    ], 
+    [
+      "authors", 
+      true
+    ], 
+    [
+      "pubdate", 
+      true
+    ], 
+    [
+      "#read", 
+      true
+    ], 
+    [
+      "timestamp", 
+      false
+    ]
+  ], 
+  "welcome_wizard_device": "kindle_pw", 
+  "welcome_wizard_was_run": true
+}

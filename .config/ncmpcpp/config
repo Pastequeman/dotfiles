@@ -1,0 +1,63 @@
+#############################################################################
+## This is the example configuration file. Copy it to $HOME/.ncmpcpp/config ##
+## or $XDG_CONFIG_HOME/ncmpcpp/config and set up your preferences.          ##
+##############################################################################
+#
+##### directories ######
+[mpd]
+mpd_music_dir = "~/Music"
+mpd_host = "localhost"
+mpd_port = "6600"
+mpd_crossfade_time = "2"
+ncmpcpp_directory = "~/.config/ncmpcpp"
+lyrics_directory = "~/.config/lyrics"
+
+
+[visualizer]
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_output_name = "my_fifo"
+visualizer_sync_interval = "30"
+visualizer_in_stereo = "yes"
+visualizer_type = "spectrum"
+visualizer_look = "●┃"
+visualizer_color = "default"
+
+
+[header]
+header_visibility = "no"
+header_window_color = "default"
+playlist_shorten_total_times = "yes"
+volume_color = "default"
+state_line_color = "black"
+
+
+[playlist]
+playlist_display_mode = "classic"
+song_list_format = "{{%A - %t}|{%f}}{$R%l}"
+#song_list_format = "{%A|{%f}}{$R%l}"
+now_playing_prefix = "$b$5"
+now_playing_suffix = "$/b$9"
+
+
+[statusbar]
+progressbar_look = "─╼ "
+progressbar_color = "black"
+statusbar_visibility = "no"
+statusbar_color = "default"
+song_status_format = "{{%A{ - %t}}|{ - %f}{ - %b{ (%4y)}}}"
+# song_status_format = "{{%a{ - %t}}|{ - %f}{ - %b{ (%y)}}}"
+
+[library]
+song_library_format = "{{%A - %t}|{%f}}{$R%l}"
+#song_library_format = "{{%a - %t}|{%f}}{$R%l}"
+empty_tag_color = "black"
+media_library_primary_tag = album_artist
+media_library_albums_split_by_date = no
+startup_screen = media_library
+
+[global]
+colors_enabled = "yes"
+main_window_color = "default"
+centered_cursor = "yes"
+enable_window_title = "yes"
+external_editor = "emacs"

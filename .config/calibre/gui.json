@@ -1,0 +1,276 @@
+{
+  "ask_to_manage_device": [
+    "b00aa12"
+  ], 
+  "basic_metadata_widget_splitter_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAEAAAADAAAA/gAAAWgAAAEKAf////8BAAAAAQA="
+  }, 
+  "book_details_splitter_horizontal_state": [
+    true, 
+    254
+  ], 
+  "book_details_splitter_vertical_state": [
+    true, 
+    231
+  ], 
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAE4A/////wEAAAABAA=="
+  }, 
+  "card_a_view books view state": {
+    "column_alignment": {
+      "size": "center", 
+      "timestamp": "center"
+    }, 
+    "column_positions": {
+      "authors": 2, 
+      "collections": 5, 
+      "inlibrary": 0, 
+      "size": 4, 
+      "timestamp": 3, 
+      "title": 1
+    }, 
+    "column_sizes": {
+      "authors": 99, 
+      "collections": 107, 
+      "inlibrary": 102, 
+      "size": 58, 
+      "timestamp": 73, 
+      "title": 60
+    }, 
+    "hidden_columns": [], 
+    "languages_injected": true, 
+    "last_modified_injected": true, 
+    "sort_history": [
+      [
+        "timestamp", 
+        false
+      ]
+    ]
+  }, 
+  "card_b_view books view state": {
+    "column_alignment": {
+      "size": "center", 
+      "timestamp": "center"
+    }, 
+    "column_positions": {
+      "authors": 2, 
+      "collections": 5, 
+      "inlibrary": 0, 
+      "size": 4, 
+      "timestamp": 3, 
+      "title": 1
+    }, 
+    "column_sizes": {
+      "authors": 99, 
+      "collections": 107, 
+      "inlibrary": 102, 
+      "size": 58, 
+      "timestamp": 73, 
+      "title": 60
+    }, 
+    "hidden_columns": [], 
+    "languages_injected": true, 
+    "last_modified_injected": true, 
+    "sort_history": [
+      [
+        "timestamp", 
+        false
+      ]
+    ]
+  }, 
+  "choose-icon-theme-dialog-geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAACo/////gAABC8AAAO2AAAAqgAAAAAAAAQtAAADtAAAAAEAAAAABQAAAACqAAAAAAAABC0AAAO0"
+  }, 
+  "cover_browser_splitter_horizontal_state": [
+    false, 
+    550
+  ], 
+  "cover_browser_splitter_vertical_state": [
+    false, 
+    300
+  ], 
+  "cover_grid_color": [
+    80, 
+    80, 
+    80
+  ], 
+  "cover_grid_texture": null, 
+  "custom_colors_for_color_dialog": [
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ]
+  ], 
+  "default_author_link": null, 
+  "duplicates-question-dialog-geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAASMAAAGbAAABq0AAAfqAAAEjgAABm4AAAarAAAH6AAAAAAAAAAAB4AAAASOAAAGbgAABqsAAAfo"
+  }, 
+  "grid view visible": false, 
+  "library_usage_stats": {
+    "/run/media/julien/SP PHD U3/Calibre Library": 23
+  }, 
+  "memory_view books view state": {
+    "column_alignment": {
+      "size": "center", 
+      "timestamp": "center"
+    }, 
+    "column_positions": {
+      "authors": 2, 
+      "collections": 5, 
+      "inlibrary": 0, 
+      "size": 4, 
+      "timestamp": 3, 
+      "title": 1
+    }, 
+    "column_sizes": {
+      "authors": 99, 
+      "collections": 107, 
+      "inlibrary": 102, 
+      "size": 58, 
+      "timestamp": 73, 
+      "title": 60
+    }, 
+    "hidden_columns": [], 
+    "languages_injected": true, 
+    "last_modified_injected": true, 
+    "sort_history": [
+      [
+        "timestamp", 
+        false
+      ]
+    ]
+  }, 
+  "metasingle_window_geometry3": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAACPAAAAmAAABEsAAAN7AAAAkQAAAJoAAARJAAADeQAAAAEAAAAABQAAAACRAAAAmgAABEkAAAN5"
+  }, 
+  "preferences dialog geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAAOvAAAEqQAAB1QAAAd8AAADsQAABKsAAAdSAAAHegAAAAAAAAAAB4AAAAOxAAAEqwAAB1IAAAd6"
+  }, 
+  "previous_sort_order_BooksView": {
+    "authors": true, 
+    "pubdate": true, 
+    "size": false
+  }, 
+  "quick_start_guide_added": true, 
+  "quickview visible": false, 
+  "recently_used_languages": [
+    "English"
+  ], 
+  "replace_scene_breaks_history": [
+    "", 
+    "<hr />", 
+    "∗ ∗ ∗", 
+    "• • •", 
+    "♦ ♦ ♦", 
+    "† †", 
+    "‡ ‡ ‡", 
+    "∞ ∞ ∞", 
+    "¤ ¤ ¤"
+  ], 
+  "search bar visible": true, 
+  "show_emblems": false, 
+  "tag browser search box visible": false, 
+  "tag_browser_splitter_horizontal_state": [
+    true, 
+    171
+  ], 
+  "toolbar_icon_size": "small"
+}

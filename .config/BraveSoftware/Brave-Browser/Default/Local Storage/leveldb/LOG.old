@@ -1,0 +1,11 @@
+2020/03/10-16:59:15.781 6e4 Reusing MANIFEST /home/julien/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/03/10-16:59:15.781 6e4 Recovering log #429
+2020/03/10-16:59:15.782 6e4 Level-0 table #433: started
+2020/03/10-16:59:15.786 6e4 Level-0 table #433: 12454 bytes OK
+2020/03/10-16:59:15.791 6e4 Delete type=0 #429
+2020/03/10-17:30:05.425 fea Level-0 table #436: started
+2020/03/10-17:30:05.441 fea Level-0 table #436: 20578 bytes OK
+2020/03/10-17:30:05.451 fea Delete type=0 #434
+2020/03/10-18:13:36.591 fea Level-0 table #438: started
+2020/03/10-18:13:36.597 fea Level-0 table #438: 21551 bytes OK
+2020/03/10-18:13:36.600 fea Delete type=0 #435

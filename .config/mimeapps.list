@@ -1,0 +1,16 @@
+[Added Associations]
+text/plain=org.gnome.gedit.desktop;zotero.desktop;
+text/x-bibtex=zotero.desktop;
+text/html=firefox.desktop;
+image/tiff=org.gnome.gThumb.desktop;feh.desktop;org.gnome.Evince.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-4MQH8Z.desktop;
+message/rfc822=userapp-Thunderbird-4MQH8Z.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+image/png=org.gnome.gThumb.desktop;
+application/xhtml+xml=firefox.desktop;
+image/jpeg=org.gnome.gThumb.desktop;
+
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-4MQH8Z.desktop
+message/rfc822=userapp-Thunderbird-4MQH8Z.desktop
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
