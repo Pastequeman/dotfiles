@@ -1,0 +1,29 @@
+#define bg		rgba(0, 43, 54)
+#define fg		#93a1a1
+#define fgb		#eee8d5
+#define cur		#eee8d5
+#define curf		#002b36
+
+#define blk		#002b36
+#define blk2		#657b83
+#define red		#dc322f
+#define red2		#dc322f
+#define grn		#859900
+#define grn2		#859900
+#define ylw		#b58900
+#define ylw2		#b58900
+#define blu		#268bd2
+#define blu2		#268bd2
+#define mag		#6c71c4
+#define mag2		#6c71c4
+#define cyn		#2aa198
+#define cyn2		#2aa198
+#define wht		#93a1a1
+#define wht2		#fdf6e3
+
+#define col16 		#cb4b16
+#define col17 		#d33682
+#define col18 		#073642
+#define col19 		#586e75
+#define col20 		#839496
+#define col21 		#eee8d5
