@@ -24,11 +24,11 @@ new_window pixel 3
 hide_edge_borders none
 
 # Use pactl to adjust volume in PulseAudio.
-set $refresh_i3status killall -SIGUSR1 i3status
-bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +5% && $refresh_i3status
-bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -5% && $refresh_i3status
-bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
-bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
+#set $refresh_i3status killall -SIGUSR1 i3status
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +5% #&& $refresh_i3status
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -5% #&& $refresh_i3status
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle #&& $refresh_i3status
+bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle #&& $refresh_i3status
 
 # Sreen brightness controls
 bindsym XF86MonBrightnessUp exec xbacklight -inc 15   # increase screen brightness
@@ -42,7 +42,7 @@ bindsym $mod+Shift+q kill
 
 # screen lock
 bindsym $mod+Shift+x exec $HOME/.config/i3lock/i3lock.sh
-exec_always --no-startup-id "~/bin/locker.sh"
+exec_always --no-startup-id "$HOME/bin/locker.sh"
 
 
 #exec_always xautolock -detectsleep -time 15 -locker "systemctl suspend" -notify 30 -notifier "notify-send -u critical -t 10000 -- 'SLEEP in 30 sec'" &

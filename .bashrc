@@ -1,12 +1,13 @@
 neofetch
 
-export LANG=en_US.UTF-8
-export LC_ALL=en_US.UTF-8
+# If not runnig interactcely, don't do anything
+[[ $- != *i* ]] && return
 
 stty -ixon # Disable ctrl-s and ctrl-q.
 
-HISTSIZE= HISTFILESIZE= # Infinite history.
-export PS1="\[$(tput bold)\]\[$(tput setaf 1)\][\[$(tput setaf 3)\]\u\[$(tput setaf 2)\]@\[$(tput setaf 4)\]\h \[$(tput setaf 5)\]\W\[$(tput setaf 1)\]]\[$(tput setaf 7)\]\\$ \[$(tput sgr0)\]"
+
+# Load alias and shell config
+for f in ~/.config/shellconfig/*; do source "$f"; done
 
 ##### Bash options ######
 shopt -s checkwinsize
@@ -15,17 +16,7 @@ shopt -s cdspell            #
 shopt -s autocd             # automatically cd
 shopt -s histappend         # longer history
 
-###### alias ######
-alias ls='ls --color=auto'
-alias grep='grep --color=auto'
-alias more='less'
-alias egrep='egrep --colour=auto'
-alias fgrep='fgrep --colour=auto'
-alias dl='cd /run/media/julien/SP\ PHD\ U3/NIES'
-
 bind 'set completion-ignore-case on'
-
-export CALIBRE_USE_SYSTEM_THEME=1
 
 # file extraction: usage: ex <file>
 ex ()

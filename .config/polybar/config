@@ -179,6 +179,9 @@ host = 127.0.0.1
 port = 6600
 interval = 2
 
+click-left  = $TERMINAL -e ncmpcpp
+click-right = mpc toggle
+
 format-online  	   	       	  = <icon-prev> <toggle> <icon-next> <bar-progress> <label-song>
 format-offline 	 	          = <label-offline>
 format-paused  			  = <icon-prev> <toggle> <icon-next> <bar-progress> <label-song>
