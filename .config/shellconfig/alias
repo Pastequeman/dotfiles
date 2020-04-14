@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+# shortcut
+alias reload="source ~/.bash_profile"
+
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+alias more='less'
+alias egrep='egrep --colour=auto'
+alias fgrep='fgrep --colour=auto'
+alias work='cd /run/media/julien/SP\ PHD\ U3/NIES'
+
+
+# List declared aliases, functions, paths
+alias aliases="alias | sed 's/=.*//'"
+alias functions="declare -f | grep '^[a-z].* ()' | sed 's/{$//'"
+alias paths='echo -e ${PATH//:/\\n}'
